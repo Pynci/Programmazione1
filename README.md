@@ -1,4 +1,4 @@
-# Programmazione1
+# Programmazione 1
 
 Una raccolta del codice scritto durante le esercitazioni di laboratorio del corso di Programmazione 1.
 
