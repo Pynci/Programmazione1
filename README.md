@@ -4,4 +4,4 @@ Una raccolta del codice scritto durante le esercitazioni di laboratorio del cors
 
 Programma del corso: Java sequenziale (costrutti base del linguaggio, selezione, iterazione, array, metodi e ricorsione).
 
-Per ogni esercitazione troverai il rispettivo pdf contenente le specifiche richieste per ogni esercizio, oltre alla soluzione scritta in Java.
+Per ogni esercitazione è presente il rispettivo pdf contenente le specifiche richieste per ogni esercizio, oltre alla soluzione scritta in Java.
