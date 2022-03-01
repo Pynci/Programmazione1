@@ -1,6 +1,6 @@
 # Programmazione 1
 
-Una raccolta del codice scritto durante le esercitazioni di laboratorio del corso di Programmazione 1.
+Una raccolta del codice scritto durante le esercitazioni di laboratorio del corso di Programmazione 1 (unimib).
 
 Programma del corso: Java sequenziale (costrutti base del linguaggio, selezione, iterazione, array, metodi e ricorsione).
 
