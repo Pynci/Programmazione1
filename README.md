@@ -1,9 +1,30 @@
 # Programmazione 1
-
 Una raccolta del codice scritto durante le esercitazioni di laboratorio del corso di Programmazione 1 (unimib).
+```java
+import unimib
 
-Programma del corso: Java sequenziale (costrutti base del linguaggio, selezione, iterazione, array, metodi e ricorsione).
+public class RepositoryProgrammazione1{
 
-Per ogni esercitazione è presente il rispettivo pdf contenente le specifiche richieste per ogni esercizio, oltre alla soluzione scritta in Java.
-
-DISCLAIMER: alcuni esercizi potrebbero essere incompleti
+  public static void main(String[] args){
+    String corsoDiLaurea = "Informatica";
+    String materia = "Programmazione 1";
+    boolean testiPresenti = true;
+    String[] argomenti = {"costrutti base", "identificatori", "tipi", "selezione",
+                          "iterazione", "array", "metodi", "ricorsione"};
+    
+    System.out.println("Corso di laurea: " + corsoDiLaurea);
+    
+    System.out.println("Insegnamento: " + materia);
+    
+    for(int i = 0; i < argomenti.length; i++){
+      System.out.print(argomenti[i] + " ");
+    }
+    
+    if(testiPresenti){
+      System.out.println("Nella repo è incluso il testo degli esercizi");
+    }
+    
+  }
+  
+}
+```
