@@ -1,7 +1,7 @@
 # Programmazione 1
 Una raccolta del codice scritto durante le esercitazioni di laboratorio del corso di Programmazione 1 (unimib).
 ```java
-import unimib
+import unimib;
 
 public class RepositoryProgrammazione1{
 
