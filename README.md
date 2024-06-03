@@ -28,4 +28,4 @@ public class RepositoryProgrammazione1{
   
 }
 ```
-**DISCLAIMER**: alcuni esercizi potrebbero essere mancanti perché da me ritenuti non necessari per il superamento dell'esame, inoltre potrebbero mancare alcuni testi di esercizi o temi d'esame.
+**DISCLAIMER**: alcuni esercizi potrebbero essere mancanti o incompleti.
